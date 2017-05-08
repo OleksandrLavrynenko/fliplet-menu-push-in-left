@@ -1,6 +1,6 @@
 {
   "name": "Push In (Left)",
-  "package": "com.fliplet.menu.push-in",
+  "package": "com.fliplet.menu.push-in-left",
   "version": "1.0.0",
   "icon": "img/icon.png",
   "tags": ["type:menu"],
