@@ -1,0 +1,16 @@
+{
+    "widgets": {
+        "menuPushInLeft": {
+            "dataSource": {
+                "actions": {
+                    "back": "Back",
+                    "exit": "Exit"
+                },
+                "copyright": {
+                    "version": "Version",
+                    "action": "Built using Fliplet"
+                }
+            }
+        }
+    }
+}
